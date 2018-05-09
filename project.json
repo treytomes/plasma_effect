@@ -1,0 +1,13 @@
+﻿{
+  "dependencies": {
+    "OpenTK": "3.0.0"
+  },
+  "frameworks": {
+    "net461": {}
+  },
+  "runtimes": {
+    "win": {},
+    "win-x86": {},
+    "win-x64": {}
+  }
+}
